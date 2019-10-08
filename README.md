@@ -1,4 +1,4 @@
-![Car vs Motorbikes!](poster1.jpg "the Poster")
+![Cars vs Motorbikes](images/pic78.jpg "the poster")
 
 # Singh_J_Dhaliwal_A_Midterm
 
@@ -10,4 +10,4 @@ Anmol Singh Dhaliwal
 
 ## license
 this project is copyright
- 
+
