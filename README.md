@@ -1,2 +1,13 @@
+![Car vs Motorbikes!](poster1.jpg "the Poster")
+
 # Singh_J_Dhaliwal_A_Midterm
-I am in favour of motor bikess.
+
+This is the site based on advantages of bikes and cars . And also explains the about the safety measures of cars and bikes particularly .
+
+### Authors
+Jaskaran Singh
+Anmol Singh Dhaliwal
+
+## license
+this project is copyright
+ 
